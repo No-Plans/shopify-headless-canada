@@ -1,6 +1,6 @@
 {
   "current": {
-    "storefront_hostname": "staging.canadacanada.com",
+    "storefront_hostname": "canadacanada.com",
     "custom_redirects": "\/password > \/shop",
     "content_for_index": [
 

@@ -1,7 +1,7 @@
 {
   "current": {
-    "storefront_hostname": "canadacanada.com",
-    "custom_redirects": "\/password > \/shop",
+    "storefront_hostname": "canadacanada.com\/shop",
+    "custom_redirects": "\/password > \/",
     "checkout_logo_image": "shopify:\/\/shop_images\/CHECKOUT_CANADA.GOODS_BLACK_87f7f24b-4c17-4b3e-96ab-4340dc7c8062.png",
     "checkout_logo_position": "right",
     "checkout_logo_size": "small",

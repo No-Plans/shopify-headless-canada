@@ -4,7 +4,7 @@
     "custom_redirects": "\/password > \/shop",
     "checkout_logo_image": "shopify:\/\/shop_images\/CANADA.GOODS_BLACK.png",
     "checkout_logo_position": "left",
-    "checkout_logo_size": "large",
+    "checkout_logo_size": "medium",
     "content_for_index": [
 
     ]
